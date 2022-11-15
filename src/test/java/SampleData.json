@@ -1,0 +1,24 @@
+{
+  "medications": [
+    {
+      "aceInhibitors": [
+        {
+          "name": "lisinopril",
+          "dose": "1 tab"
+        }
+      ],
+      "anticoagulants": [
+        {
+          "name": "warfarin sodium",
+          "dose": "1 tab"
+        }
+      ],
+      "betaBlocker": [
+        {
+          "name": "metoprolol tartrate",
+          "dose": "1 tab"
+        }
+      ]
+    }
+  ]
+}
